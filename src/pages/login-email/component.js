@@ -189,7 +189,7 @@ function Login(props) {
           </div>
 
           <DialogContentText id="alert-dialog-description">
-            Harap tunggu...
+            Please Wait...
           </DialogContentText>
         </DialogContent>
       </Dialog>
